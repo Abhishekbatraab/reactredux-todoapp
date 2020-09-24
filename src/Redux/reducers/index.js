@@ -1,4 +1,4 @@
-import ADD_TODOS from '../constants/action-types.js'
+import { ADD_TODOS } from '../constants/action-types.js'
 
 const initialState = {
     todos: []
